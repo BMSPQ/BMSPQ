@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kruttibas
+# Hi there! 👋 I'm Kruttibash Panda
 
 I'm a **B.Tech Computer Science student** passionate about programming and building impactful projects. 🌱
 
