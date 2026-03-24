@@ -4,8 +4,8 @@ I'm a **B.Tech Computer Science student** passionate about programming and build
 
 ## 🌟 Skills
 - **Languages**: Java, C, Python, JavaScript
-- **Web Dev**: HTML, CSS, PHP, MySQL
-- **Tools**: Git, VS Code, Linux
+- **Web Dev**: HTML, CSS, MySQL
+- **Tools**: VS Code, Linux
 
 ## 🚀 Current Focus
 - Learning Data Structures, Algorithms, and Backend Development.
